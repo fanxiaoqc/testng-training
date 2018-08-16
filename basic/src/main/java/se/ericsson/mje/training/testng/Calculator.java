@@ -20,4 +20,4 @@ public interface Calculator {
      */
     int minus(int a, int b);
 
-    int addMinus(int a,int b);
+    int addMinus2(int a,int b)
